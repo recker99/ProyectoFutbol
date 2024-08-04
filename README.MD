@@ -24,7 +24,7 @@ Esta es una aplicación de escritorio desarrollada en WPF (Windows Presentation 
 - **Encriptación y Desencriptación de Datos**:
   - La aplicación utiliza el algoritmo AES (Advanced Encryption Standard) para proteger la información sensible de los equipos, como los nombres de los equipos y otros datos importantes.
 
-  ## Tecnologías utilizadas
+## Tecnologías utilizadas
   - .NET Framework 4.8
   - Entity Framework 6.1
   - Linq.
@@ -32,7 +32,7 @@ Esta es una aplicación de escritorio desarrollada en WPF (Windows Presentation 
   - AES para encriptación.
   - SQL Server
 
-   ## Licencia
+## Licencia
    Este proyecto está licenciado bajo la licencia MIT.
 
 
