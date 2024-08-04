@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|c:\\users\\ivanb\\source\\repos\\proyectofutbol\\equipo_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|solutionrelative:equipo_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_negocio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|solutionrelative:equipo_negocio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|c:\\users\\ivanb\\source\\repos\\proyectofutbol\\equipo_negocio\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|solutionrelative:equipo_negocio\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|solutionrelative:equipo_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_negocio\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|solutionrelative:equipo_negocio\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_negocio\\equiporeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|solutionrelative:equipo_negocio\\equiporeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_negocio\\ipersistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05FC848-1486-4122-A7B2-2E5AF7F1584B}|Equipo_Negocio\\Equipo_Negocio.csproj|solutionrelative:equipo_negocio\\ipersistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\equipo_gui\\vistas\\actualizarequipo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3CC77A3-CBB6-4925-8AB8-8AA3F9ACB928}|Equipo_GUI\\Equipo_GUI.csproj|solutionrelative:equipo_gui\\vistas\\actualizarequipo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AES.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\AES.cs",
+              "RelativeDocumentMoniker": "Equipo_Negocio\\AES.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\AES.cs",
+              "RelativeToolTip": "Equipo_Negocio\\AES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:09:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\Equipo.cs",
+              "RelativeDocumentMoniker": "Equipo_Negocio\\Equipo.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\Equipo.cs",
+              "RelativeToolTip": "Equipo_Negocio\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:19:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Equipo_GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\MainWindow.xaml",
+              "RelativeToolTip": "Equipo_GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T01:08:07.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Equipo_GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Equipo_GUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:08:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Equipo_Negocio\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\ObservableObject.cs",
+              "RelativeToolTip": "Equipo_Negocio\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:10:18.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipoReportes.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\EquipoReportes.cs",
+              "RelativeDocumentMoniker": "Equipo_Negocio\\EquipoReportes.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\EquipoReportes.cs",
+              "RelativeToolTip": "Equipo_Negocio\\EquipoReportes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:29:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersistente.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\IPersistente.cs",
+              "RelativeDocumentMoniker": "Equipo_Negocio\\IPersistente.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_Negocio\\IPersistente.cs",
+              "RelativeToolTip": "Equipo_Negocio\\IPersistente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:28:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActualizarEquipo.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\Vistas\\ActualizarEquipo.xaml",
+              "RelativeDocumentMoniker": "Equipo_GUI\\Vistas\\ActualizarEquipo.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProyectoFutbol\\Equipo_GUI\\Vistas\\ActualizarEquipo.xaml",
+              "RelativeToolTip": "Equipo_GUI\\Vistas\\ActualizarEquipo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T01:13:55.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

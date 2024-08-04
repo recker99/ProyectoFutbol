@@ -1,0 +1,17 @@
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\Equipo_DALC.exe.config
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\Equipo_DALC.exe
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\Equipo_DALC.pdb
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\App.g.cs
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC_MarkupCompile.cache
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.Properties.Resources.resources
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.csproj.GenerateResource.cache
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.exe
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC.pdb
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_DALC_Content.g.cs
+C:\Users\ivanb\source\repos\ProyectoFutbol\Equipo_DALC\obj\Debug\Equipo_D.5967BAC2.Up2Date
